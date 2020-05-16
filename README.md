@@ -1,4 +1,4 @@
-![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/te
+![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)
 
 # Welcome to "Tic-Tac-Toe" Project! 
 
